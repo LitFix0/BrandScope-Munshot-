@@ -1,4 +1,4 @@
-# BrandScope-Munshot-
+#LUGGAGE INTEL
 
 
 ### Amazon India · Luggage Market Analysis
