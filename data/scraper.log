@@ -1,0 +1,896 @@
+2026-04-02 18:05:37,004 [INFO] Starting scraper for: ['Safari', 'Skybags', 'American Tourister', 'VIP', 'Aristocrat', 'Nasher Miles']
+2026-04-02 18:05:57,463 [INFO] Login confirmed. Starting scrape...
+2026-04-02 18:05:57,463 [INFO] 
+============================================================
+Brand: Safari
+============================================================
+2026-04-02 18:05:57,548 [INFO]   Search page 1: Safari
+2026-04-02 18:06:03,269 [INFO]   Found 60 items on page 1
+2026-04-02 18:06:04,855 [INFO]   -> 10 product URLs for Safari
+2026-04-02 18:06:04,855 [INFO]   Product 1/10
+2026-04-02 18:06:11,756 [INFO]   ✓ Safari — Safari Genius Alley Set of 3 (Cabin + Medium + Large) T  ₹4449.0  4.0★
+2026-04-02 18:06:15,694 [INFO]   Product 2/10
+2026-04-02 18:06:22,105 [INFO]   ✓ Safari — Safari Pentagon Pro 8 Wheels Cabin Trolley Bag Polyprop  ₹1699.0  4.2★
+2026-04-02 18:06:27,053 [INFO]   Product 3/10
+2026-04-02 18:06:32,336 [INFO]   ✓ Safari — Safari Medium Genius Alley 66cm Size Check-in Trolley B  ₹1899.0  4.0★
+2026-04-02 18:06:36,607 [INFO]   Product 4/10
+2026-04-02 18:06:42,570 [INFO]   ✓ Safari — Safari Pentagon Pro 8 Wheels Checkin Trolley Bag, Hard   ₹2299.0  4.2★
+2026-04-02 18:06:46,833 [INFO]   Product 5/10
+2026-04-02 18:06:53,048 [INFO]   ✓ Safari — Safari Pentagon Pro 8 Wheels 66cm Medium Size Trolley B  ₹2299.0  4.2★
+2026-04-02 18:06:56,211 [INFO]   Product 6/10
+2026-04-02 18:07:02,010 [INFO]   ✓ Safari — Safari Medium Thorium Neo 8 Wheels 66 Cm Check-in Troll  ₹2499.0  4.0★
+2026-04-02 18:07:06,181 [INFO]   Product 7/10
+2026-04-02 18:07:11,579 [INFO]   ✓ Safari — Safari Cabin Pentagon Pro 8 Wheels 55Cm Trolley Bag Har  ₹1699.0  4.2★
+2026-04-02 18:07:16,460 [INFO]   Product 8/10
+2026-04-02 18:07:23,282 [INFO]   ✓ Safari — Safari Genius Alley Set of 2 (Cabin + Medium) Trolley B  ₹2999.0  4.0★
+2026-04-02 18:07:27,925 [INFO]   Product 9/10
+2026-04-02 18:07:34,934 [INFO]   ✓ Safari — Safari Genius Alley 75cm Large Size Check-in Trolley Ba  ₹2499.0  4.0★
+2026-04-02 18:07:39,824 [INFO]   Product 10/10
+2026-04-02 18:07:47,471 [INFO]   ✓ Safari — Safari Medium Thorium Neo 8 Wheels 66 Cm Check-in Troll  ₹2499.0  4.0★
+2026-04-02 18:07:50,606 [INFO]     Reviews page 1/6: B0FLYGLKYQ
+2026-04-02 18:07:56,255 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:07:58,940 [INFO]     Reviews page 2/6: B0FLYGLKYQ
+2026-04-02 18:08:04,624 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:08:07,060 [INFO]     Reviews page 3/6: B0FLYGLKYQ
+2026-04-02 18:08:13,339 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:08:15,724 [INFO]     Reviews page 4/6: B0FLYGLKYQ
+2026-04-02 18:08:22,380 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:08:24,628 [INFO]     Reviews page 5/6: B0FLYGLKYQ
+2026-04-02 18:08:31,188 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:08:35,035 [INFO]     Reviews page 6/6: B0FLYGLKYQ
+2026-04-02 18:08:40,887 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:08:44,690 [INFO]     -> 42 reviews for B0FLYGLKYQ
+2026-04-02 18:08:48,547 [INFO]     Reviews page 1/6: B097BH338H
+2026-04-02 18:08:55,274 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:08:59,260 [INFO]     Reviews page 2/6: B097BH338H
+2026-04-02 18:09:04,989 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:09:08,672 [INFO]     Reviews page 3/6: B097BH338H
+2026-04-02 18:09:14,795 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:09:17,921 [INFO]     Reviews page 4/6: B097BH338H
+2026-04-02 18:09:24,390 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:09:27,339 [INFO]     Reviews page 5/6: B097BH338H
+2026-04-02 18:09:33,548 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:09:35,733 [INFO]     Reviews page 6/6: B097BH338H
+2026-04-02 18:09:41,089 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:09:43,583 [INFO]     -> 60 reviews for B097BH338H
+2026-04-02 18:09:47,624 [INFO]     Reviews page 1/6: B0F67L3Y72
+2026-04-02 18:09:54,580 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:09:57,355 [INFO]     Reviews page 2/6: B0F67L3Y72
+2026-04-02 18:10:02,809 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:10:06,245 [INFO]     Reviews page 3/6: B0F67L3Y72
+2026-04-02 18:10:11,460 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:10:14,394 [INFO]     Reviews page 4/6: B0F67L3Y72
+2026-04-02 18:10:19,802 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:10:23,350 [INFO]     Reviews page 5/6: B0F67L3Y72
+2026-04-02 18:10:29,700 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:10:33,146 [INFO]     Reviews page 6/6: B0F67L3Y72
+2026-04-02 18:10:40,124 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:10:42,854 [INFO]     -> 42 reviews for B0F67L3Y72
+2026-04-02 18:10:46,754 [INFO]     Reviews page 1/6: B097BGX7TV
+2026-04-02 18:10:53,809 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:10:56,431 [INFO]     Reviews page 2/6: B097BGX7TV
+2026-04-02 18:11:01,635 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:11:04,301 [INFO]     Reviews page 3/6: B097BGX7TV
+2026-04-02 18:11:10,605 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:11:13,727 [INFO]     Reviews page 4/6: B097BGX7TV
+2026-04-02 18:11:19,327 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:11:22,051 [INFO]     Reviews page 5/6: B097BGX7TV
+2026-04-02 18:11:27,601 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:11:31,146 [INFO]     Reviews page 6/6: B097BGX7TV
+2026-04-02 18:11:37,156 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:11:40,748 [INFO]     -> 60 reviews for B097BGX7TV
+2026-04-02 18:11:43,972 [INFO]     Reviews page 1/6: B097GR45SS
+2026-04-02 18:11:49,759 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:11:51,766 [INFO]     Reviews page 2/6: B097GR45SS
+2026-04-02 18:11:58,637 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:12:01,935 [INFO]     Reviews page 3/6: B097GR45SS
+2026-04-02 18:12:08,147 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:12:11,594 [INFO]     Reviews page 4/6: B097GR45SS
+2026-04-02 18:12:16,838 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:12:19,043 [INFO]     Reviews page 5/6: B097GR45SS
+2026-04-02 18:12:25,867 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:12:28,038 [INFO]     Reviews page 6/6: B097GR45SS
+2026-04-02 18:12:34,945 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:12:38,652 [INFO]     -> 60 reviews for B097GR45SS
+2026-04-02 18:12:42,740 [INFO]     Reviews page 1/6: B097JMXLT9
+2026-04-02 18:12:48,898 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:12:51,642 [INFO]     Reviews page 2/6: B097JMXLT9
+2026-04-02 18:12:57,497 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:12:59,963 [INFO]     Reviews page 3/6: B097JMXLT9
+2026-04-02 18:13:05,707 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:13:09,198 [INFO]     Reviews page 4/6: B097JMXLT9
+2026-04-02 18:13:15,368 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:13:17,398 [INFO]     Reviews page 5/6: B097JMXLT9
+2026-04-02 18:13:23,242 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:13:26,435 [INFO]     Reviews page 6/6: B097JMXLT9
+2026-04-02 18:13:32,262 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:13:34,677 [INFO]     -> 60 reviews for B097JMXLT9
+2026-04-02 18:13:39,233 [INFO]     Reviews page 1/6: B097BG6DX1
+2026-04-02 18:13:45,953 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:13:48,067 [INFO]     Reviews page 2/6: B097BG6DX1
+2026-04-02 18:13:54,304 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:13:56,842 [INFO]     Reviews page 3/6: B097BG6DX1
+2026-04-02 18:14:03,301 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:14:06,359 [INFO]     Reviews page 4/6: B097BG6DX1
+2026-04-02 18:14:12,058 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:14:14,736 [INFO]     Reviews page 5/6: B097BG6DX1
+2026-04-02 18:14:20,929 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:14:24,378 [INFO]     Reviews page 6/6: B097BG6DX1
+2026-04-02 18:14:31,205 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:14:34,270 [INFO]     -> 60 reviews for B097BG6DX1
+2026-04-02 18:14:37,872 [INFO]     Reviews page 1/6: B0FLYJD912
+2026-04-02 18:14:43,386 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:14:46,287 [INFO]     Reviews page 2/6: B0FLYJD912
+2026-04-02 18:14:52,376 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:14:55,572 [INFO]     Reviews page 3/6: B0FLYJD912
+2026-04-02 18:15:02,083 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:15:04,926 [INFO]     Reviews page 4/6: B0FLYJD912
+2026-04-02 18:15:11,695 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:15:14,608 [INFO]     Reviews page 5/6: B0FLYJD912
+2026-04-02 18:15:21,411 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:15:24,750 [INFO]     Reviews page 6/6: B0FLYJD912
+2026-04-02 18:15:31,639 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:15:35,009 [INFO]     -> 42 reviews for B0FLYJD912
+2026-04-02 18:15:38,163 [INFO]     Reviews page 1/6: B0F67F6BBZ
+2026-04-02 18:15:45,000 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:15:48,941 [INFO]     Reviews page 2/6: B0F67F6BBZ
+2026-04-02 18:15:55,761 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:15:59,746 [INFO]     Reviews page 3/6: B0F67F6BBZ
+2026-04-02 18:16:05,229 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:16:07,560 [INFO]     Reviews page 4/6: B0F67F6BBZ
+2026-04-02 18:16:13,284 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:16:16,037 [INFO]     Reviews page 5/6: B0F67F6BBZ
+2026-04-02 18:16:21,373 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:16:25,173 [INFO]     Reviews page 6/6: B0F67F6BBZ
+2026-04-02 18:16:31,536 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:16:33,870 [INFO]     -> 42 reviews for B0F67F6BBZ
+2026-04-02 18:16:38,676 [INFO]     Reviews page 1/6: B097JLP1SV
+2026-04-02 18:16:45,570 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:16:48,585 [INFO]     Reviews page 2/6: B097JLP1SV
+2026-04-02 18:16:53,961 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:16:57,481 [INFO]     Reviews page 3/6: B097JLP1SV
+2026-04-02 18:17:03,763 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:17:05,871 [INFO]     Reviews page 4/6: B097JLP1SV
+2026-04-02 18:17:12,385 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:17:15,649 [INFO]     Reviews page 5/6: B097JLP1SV
+2026-04-02 18:17:21,719 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:17:25,474 [INFO]     Reviews page 6/6: B097JLP1SV
+2026-04-02 18:17:31,006 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:17:34,976 [INFO]     -> 60 reviews for B097JLP1SV
+2026-04-02 18:17:38,512 [INFO] 
+Safari: 10 new products, 528 reviews total
+2026-04-02 18:17:45,676 [INFO] 
+============================================================
+Brand: Skybags
+============================================================
+2026-04-02 18:17:45,767 [INFO]   Search page 1: Skybags
+2026-04-02 18:17:51,004 [INFO]   Found 60 items on page 1
+2026-04-02 18:17:52,709 [INFO]   -> 10 product URLs for Skybags
+2026-04-02 18:17:52,709 [INFO]   Product 1/10
+2026-04-02 18:17:59,451 [INFO]   ✓ Skybags — Skybags Cabin Stroke Abs Hardshell Luggage (55 Cm) | Pr  ₹1624.0  4.1★
+2026-04-02 18:18:03,278 [INFO]   Product 2/10
+2026-04-02 18:18:09,241 [INFO]   ✓ Skybags — Skybags Medium ABS Trooper Size Hardshell Luggage (65 C  ₹2699.0  4.2★
+2026-04-02 18:18:12,350 [INFO]   Product 3/10
+2026-04-02 18:18:18,310 [INFO]   ✓ Skybags — Skybags Rubik Polyester 78 Cms Softsided Large check-in  ₹3099.0  4.2★
+2026-04-02 18:18:22,226 [INFO]   Product 4/10
+2026-04-02 18:18:28,266 [INFO]   ✓ Skybags — Skybags Cabin Paratrip Hard Luggage (55 cm) | Polypropy  ₹1699.0  4.4★
+2026-04-02 18:18:33,304 [INFO]   Product 5/10
+2026-04-02 18:18:40,100 [INFO]   ✓ Skybags — Skybags Streax | Check-in Trolley Bag, 66 Cm, Medium Ha  ₹2249.0  4.2★
+2026-04-02 18:18:45,050 [INFO]   Product 6/10
+2026-04-02 18:18:52,360 [INFO]   ✓ Skybags — Skybags Cabin Paratrip Hardshell Luggage (55 Cm) | Poly  ₹1699.0  4.4★
+2026-04-02 18:18:56,431 [INFO]   Product 7/10
+2026-04-02 18:19:03,745 [INFO]   ✓ Skybags — Skybags Cardiff Polyester 63.5 cms Red Travel Duffle (D  ₹1089.0  4.2★
+2026-04-02 18:19:08,156 [INFO]   Product 8/10
+2026-04-02 18:19:15,480 [INFO]   ✓ Skybags — Skybags Lush Medium Size Hard Luggage (81cm) | Printed   ₹2342.0  4.1★
+2026-04-02 18:19:18,568 [INFO]   Product 9/10
+2026-04-02 18:19:24,877 [INFO]   ✓ Skybags — Skybags Streax | Cabin Trolley Bag, 55 Cm, Small Hardsi  ₹1699.0  4.2★
+2026-04-02 18:19:27,963 [INFO]   Product 10/10
+2026-04-02 18:19:33,980 [INFO]   ✓ Skybags — Skybags Streax | Check-in Trolley Bag, 66 Cm, Medium Ha  ₹2249.0  4.2★
+2026-04-02 18:19:38,739 [INFO]     Reviews page 1/6: B0C8ZY4579
+2026-04-02 18:19:44,353 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:19:47,888 [INFO]     Reviews page 2/6: B0C8ZY4579
+2026-04-02 18:19:54,140 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:19:56,654 [INFO]     Reviews page 3/6: B0C8ZY4579
+2026-04-02 18:20:03,544 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:20:06,540 [INFO]     Reviews page 4/6: B0C8ZY4579
+2026-04-02 18:20:13,645 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:20:16,399 [INFO]     Reviews page 5/6: B0C8ZY4579
+2026-04-02 18:20:22,417 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:20:26,327 [INFO]     Reviews page 6/6: B0C8ZY4579
+2026-04-02 18:20:32,854 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:20:36,290 [INFO]     -> 48 reviews for B0C8ZY4579
+2026-04-02 18:20:40,467 [INFO]     Reviews page 1/6: B0C8ZD8KNP
+2026-04-02 18:20:47,219 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:20:50,183 [INFO]     Reviews page 2/6: B0C8ZD8KNP
+2026-04-02 18:20:55,583 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:20:59,151 [INFO]     Reviews page 3/6: B0C8ZD8KNP
+2026-04-02 18:21:04,621 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:21:08,418 [INFO]     Reviews page 4/6: B0C8ZD8KNP
+2026-04-02 18:21:15,441 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:21:18,674 [INFO]     Reviews page 5/6: B0C8ZD8KNP
+2026-04-02 18:21:25,495 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:21:27,882 [INFO]     Reviews page 6/6: B0C8ZD8KNP
+2026-04-02 18:21:34,620 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:21:37,513 [INFO]     -> 48 reviews for B0C8ZD8KNP
+2026-04-02 18:21:41,091 [INFO]     Reviews page 1/6: B07HCRSLFY
+2026-04-02 18:21:46,879 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:21:49,166 [INFO]     Reviews page 2/6: B07HCRSLFY
+2026-04-02 18:21:54,455 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:21:56,678 [INFO]     Reviews page 3/6: B07HCRSLFY
+2026-04-02 18:22:02,236 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:22:05,320 [INFO]     Reviews page 4/6: B07HCRSLFY
+2026-04-02 18:22:11,391 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:22:14,022 [INFO]     Reviews page 5/6: B07HCRSLFY
+2026-04-02 18:22:21,114 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:22:24,034 [INFO]     Reviews page 6/6: B07HCRSLFY
+2026-04-02 18:22:30,062 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:22:32,763 [INFO]     -> 54 reviews for B07HCRSLFY
+2026-04-02 18:22:37,124 [INFO]     Reviews page 1/6: B0CPSW5WJ5
+2026-04-02 18:22:44,050 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:22:46,738 [INFO]     Reviews page 2/6: B0CPSW5WJ5
+2026-04-02 18:22:53,619 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:22:56,383 [INFO]     Reviews page 3/6: B0CPSW5WJ5
+2026-04-02 18:23:02,852 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:23:05,519 [INFO]     Reviews page 4/6: B0CPSW5WJ5
+2026-04-02 18:23:11,370 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:23:13,508 [INFO]     Reviews page 5/6: B0CPSW5WJ5
+2026-04-02 18:23:19,079 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:23:22,641 [INFO]     Reviews page 6/6: B0CPSW5WJ5
+2026-04-02 18:23:28,757 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:23:31,370 [INFO]     -> 48 reviews for B0CPSW5WJ5
+2026-04-02 18:23:34,762 [INFO]     Reviews page 1/6: B0FFBBFSY3
+2026-04-02 18:23:40,781 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:23:43,865 [INFO]     Reviews page 2/6: B0FFBBFSY3
+2026-04-02 18:23:49,927 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:23:52,041 [INFO]     Reviews page 3/6: B0FFBBFSY3
+2026-04-02 18:23:58,125 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:24:00,200 [INFO]     Reviews page 4/6: B0FFBBFSY3
+2026-04-02 18:24:06,061 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:24:08,592 [INFO]     Reviews page 5/6: B0FFBBFSY3
+2026-04-02 18:24:15,130 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:24:17,763 [INFO]     Reviews page 6/6: B0FFBBFSY3
+2026-04-02 18:24:24,464 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:24:28,079 [INFO]     -> 30 reviews for B0FFBBFSY3
+2026-04-02 18:24:32,500 [INFO]     Reviews page 1/6: B0CPSSB4BN
+2026-04-02 18:24:38,245 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:24:40,397 [INFO]     Reviews page 2/6: B0CPSSB4BN
+2026-04-02 18:24:45,812 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:24:48,466 [INFO]     Reviews page 3/6: B0CPSSB4BN
+2026-04-02 18:24:54,835 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:24:58,321 [INFO]     Reviews page 4/6: B0CPSSB4BN
+2026-04-02 18:25:04,671 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:25:08,175 [INFO]     Reviews page 5/6: B0CPSSB4BN
+2026-04-02 18:25:13,683 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:25:17,172 [INFO]     Reviews page 6/6: B0CPSSB4BN
+2026-04-02 18:25:22,762 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:25:25,942 [INFO]     -> 48 reviews for B0CPSSB4BN
+2026-04-02 18:25:29,949 [INFO]     Reviews page 1/6: B073JSGMRS
+2026-04-02 18:25:35,462 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:25:39,260 [INFO]     Reviews page 2/6: B073JSGMRS
+2026-04-02 18:25:45,310 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:25:48,873 [INFO]     Reviews page 3/6: B073JSGMRS
+2026-04-02 18:25:54,167 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:25:57,353 [INFO]     Reviews page 4/6: B073JSGMRS
+2026-04-02 18:26:03,064 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:26:06,533 [INFO]     Reviews page 5/6: B073JSGMRS
+2026-04-02 18:26:12,336 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:26:14,517 [INFO]     Reviews page 6/6: B073JSGMRS
+2026-04-02 18:26:20,535 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:26:24,537 [INFO]     -> 48 reviews for B073JSGMRS
+2026-04-02 18:26:28,936 [INFO]     Reviews page 1/6: B0FQ2W6RPW
+2026-04-02 18:26:34,508 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:26:37,255 [INFO]     Reviews page 2/6: B0FQ2W6RPW
+2026-04-02 18:26:44,355 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:26:47,629 [INFO]     Reviews page 3/6: B0FQ2W6RPW
+2026-04-02 18:26:54,010 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:26:56,923 [INFO]     Reviews page 4/6: B0FQ2W6RPW
+2026-04-02 18:27:03,958 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:27:06,784 [INFO]     Reviews page 5/6: B0FQ2W6RPW
+2026-04-02 18:27:12,079 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:27:14,632 [INFO]     Reviews page 6/6: B0FQ2W6RPW
+2026-04-02 18:27:20,016 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:27:22,667 [INFO]     -> 48 reviews for B0FQ2W6RPW
+2026-04-02 18:27:27,262 [INFO]     Reviews page 1/6: B0FFB8YYQD
+2026-04-02 18:27:33,770 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:27:37,623 [INFO]     Reviews page 2/6: B0FFB8YYQD
+2026-04-02 18:27:43,706 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:27:46,449 [INFO]     Reviews page 3/6: B0FFB8YYQD
+2026-04-02 18:27:52,390 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:27:55,200 [INFO]     Reviews page 4/6: B0FFB8YYQD
+2026-04-02 18:28:00,917 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:28:04,246 [INFO]     Reviews page 5/6: B0FFB8YYQD
+2026-04-02 18:28:10,624 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:28:12,964 [INFO]     Reviews page 6/6: B0FFB8YYQD
+2026-04-02 18:28:18,686 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:28:20,785 [INFO]     -> 30 reviews for B0FFB8YYQD
+2026-04-02 18:28:25,534 [INFO]     Reviews page 1/6: B0FFBD54QX
+2026-04-02 18:28:30,980 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:28:34,146 [INFO]     Reviews page 2/6: B0FFBD54QX
+2026-04-02 18:28:39,321 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:28:42,916 [INFO]     Reviews page 3/6: B0FFBD54QX
+2026-04-02 18:28:49,587 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:28:53,110 [INFO]     Reviews page 4/6: B0FFBD54QX
+2026-04-02 18:28:59,503 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:29:02,386 [INFO]     Reviews page 5/6: B0FFBD54QX
+2026-04-02 18:29:07,655 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:29:10,647 [INFO]     Reviews page 6/6: B0FFBD54QX
+2026-04-02 18:29:17,689 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:29:20,818 [INFO]     -> 30 reviews for B0FFBD54QX
+2026-04-02 18:29:25,003 [INFO] 
+Skybags: 10 new products, 432 reviews total
+2026-04-02 18:29:32,596 [INFO] 
+============================================================
+Brand: American Tourister
+============================================================
+2026-04-02 18:29:32,679 [INFO]   Search page 1: American Tourister
+2026-04-02 18:29:38,227 [INFO]   Found 60 items on page 1
+2026-04-02 18:29:39,669 [INFO]   -> 10 product URLs for American Tourister
+2026-04-02 18:29:39,669 [INFO]   Product 1/10
+2026-04-02 18:29:45,075 [INFO]   ✓ American Tourister — American Tourister Ivy 2.0 | Medium Size Check-in Troll  ₹2999.0  4.2★
+2026-04-02 18:29:48,233 [INFO]   Product 2/10
+2026-04-02 18:29:55,900 [INFO]   ✓ American Tourister — Kamiliant American Tourister Harrier | Trolley Bag Chec  ₹2399.0  4.1★
+2026-04-02 18:30:00,908 [INFO]   Product 3/10
+2026-04-02 18:30:07,335 [INFO]   ✓ American Tourister — American Tourister Medium Trolley Bag for Travel | Upla  ₹2549.0  4.2★
+2026-04-02 18:30:11,179 [INFO]   Product 4/10
+2026-04-02 18:30:17,812 [INFO]   ✓ American Tourister — American Tourister Liftoff+ | Large Size Check-in Troll  ₹3799.0  4.1★
+2026-04-02 18:30:21,879 [INFO]   Product 5/10
+2026-04-02 18:30:28,717 [INFO]   ✓ American Tourister — American Tourister Cabin Trolley Bag for Travel | Uplan  ₹2249.0  4.2★
+2026-04-02 18:30:31,995 [INFO]   Product 6/10
+2026-04-02 18:30:39,056 [INFO]   ✓ American Tourister — Kamiliant American Tourister Large Harrier Zing 78 Cms   ₹1964.79  4.0★
+2026-04-02 18:30:42,314 [INFO]   Product 7/10
+2026-04-02 18:30:47,663 [INFO]   ✓ American Tourister — American Tourister Medium Polypropylene (PP) Amt Splash  ₹3399.0  4.5★
+2026-04-02 18:30:51,299 [INFO]   Product 8/10
+2026-04-02 18:30:57,420 [INFO]   ✓ American Tourister — American Tourister Cabin Trolley Bag for Travel|Splash   ₹2585.0  4.5★
+2026-04-02 18:31:02,080 [INFO]   Product 9/10
+2026-04-02 18:31:08,162 [INFO]   ✓ American Tourister — American Tourister Liftoff+ | Small Size Cabin Trolley   ₹2799.0  4.1★
+2026-04-02 18:31:11,251 [INFO]   Product 10/10
+2026-04-02 18:31:17,606 [INFO]   ✓ American Tourister — American Tourister Ivy 2.0 | Large Size Check-in Trolle  ₹3499.0  4.2★
+2026-04-02 18:31:21,140 [INFO]     Reviews page 1/6: B0F5HKFPWR
+2026-04-02 18:31:28,070 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:31:31,583 [INFO]     Reviews page 2/6: B0F5HKFPWR
+2026-04-02 18:31:37,229 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:31:39,695 [INFO]     Reviews page 3/6: B0F5HKFPWR
+2026-04-02 18:31:46,220 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:31:48,345 [INFO]     Reviews page 4/6: B0F5HKFPWR
+2026-04-02 18:31:55,268 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:31:58,968 [INFO]     Reviews page 5/6: B0F5HKFPWR
+2026-04-02 18:32:04,944 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:32:08,722 [INFO]     Reviews page 6/6: B0F5HKFPWR
+2026-04-02 18:32:15,034 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:32:18,423 [INFO]     -> 30 reviews for B0F5HKFPWR
+2026-04-02 18:32:22,645 [INFO]     Reviews page 1/6: B0D633NS5R
+2026-04-02 18:32:30,018 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:32:33,412 [INFO]     Reviews page 2/6: B0D633NS5R
+2026-04-02 18:32:40,228 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:32:43,557 [INFO]     Reviews page 3/6: B0D633NS5R
+2026-04-02 18:32:49,776 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:32:52,588 [INFO]     Reviews page 4/6: B0D633NS5R
+2026-04-02 18:32:58,552 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:33:01,703 [INFO]     Reviews page 5/6: B0D633NS5R
+2026-04-02 18:33:08,316 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:33:10,720 [INFO]     Reviews page 6/6: B0D633NS5R
+2026-04-02 18:33:17,754 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:33:20,489 [INFO]     -> 54 reviews for B0D633NS5R
+2026-04-02 18:33:25,185 [INFO]     Reviews page 1/6: B09RPLYFXJ
+2026-04-02 18:33:30,656 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:33:34,428 [INFO]     Reviews page 2/6: B09RPLYFXJ
+2026-04-02 18:33:40,125 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:33:42,191 [INFO]     Reviews page 3/6: B09RPLYFXJ
+2026-04-02 18:33:47,487 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:33:50,849 [INFO]     Reviews page 4/6: B09RPLYFXJ
+2026-04-02 18:33:57,282 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:34:00,602 [INFO]     Reviews page 5/6: B09RPLYFXJ
+2026-04-02 18:34:07,413 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:34:09,935 [INFO]     Reviews page 6/6: B09RPLYFXJ
+2026-04-02 18:34:16,054 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:34:19,307 [INFO]     -> 42 reviews for B09RPLYFXJ
+2026-04-02 18:34:22,428 [INFO]     Reviews page 1/6: B0F5HLTS84
+2026-04-02 18:34:29,615 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:34:33,608 [INFO]     Reviews page 2/6: B0F5HLTS84
+2026-04-02 18:34:39,140 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:34:42,616 [INFO]     Reviews page 3/6: B0F5HLTS84
+2026-04-02 18:34:48,774 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:34:51,500 [INFO]     Reviews page 4/6: B0F5HLTS84
+2026-04-02 18:34:58,736 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:35:01,159 [INFO]     Reviews page 5/6: B0F5HLTS84
+2026-04-02 18:35:07,844 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:35:10,184 [INFO]     Reviews page 6/6: B0F5HLTS84
+2026-04-02 18:35:16,874 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:35:19,590 [INFO]     -> 54 reviews for B0F5HLTS84
+2026-04-02 18:35:24,032 [INFO]     Reviews page 1/6: B07Z417Y94
+2026-04-02 18:35:30,962 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:35:34,285 [INFO]     Reviews page 2/6: B07Z417Y94
+2026-04-02 18:35:40,611 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:35:44,430 [INFO]     Reviews page 3/6: B07Z417Y94
+2026-04-02 18:35:51,173 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:35:54,672 [INFO]     Reviews page 4/6: B07Z417Y94
+2026-04-02 18:36:01,233 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:36:04,461 [INFO]     Reviews page 5/6: B07Z417Y94
+2026-04-02 18:36:10,655 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:36:13,689 [INFO]     Reviews page 6/6: B07Z417Y94
+2026-04-02 18:36:19,140 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:36:22,359 [INFO]     -> 42 reviews for B07Z417Y94
+2026-04-02 18:36:26,772 [INFO]     Reviews page 1/6: B0FN45CXBL
+2026-04-02 18:36:31,945 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:36:35,409 [INFO]     Reviews page 2/6: B0FN45CXBL
+2026-04-02 18:36:42,121 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:36:45,112 [INFO]     Reviews page 3/6: B0FN45CXBL
+2026-04-02 18:36:52,375 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:36:55,603 [INFO]     Reviews page 4/6: B0FN45CXBL
+2026-04-02 18:37:01,034 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:37:03,669 [INFO]     Reviews page 5/6: B0FN45CXBL
+2026-04-02 18:37:09,086 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:37:11,549 [INFO]     Reviews page 6/6: B0FN45CXBL
+2026-04-02 18:37:18,471 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:37:21,081 [INFO]     -> 54 reviews for B0FN45CXBL
+2026-04-02 18:37:25,005 [INFO]     Reviews page 1/6: B0CHRL351K
+2026-04-02 18:37:31,730 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:37:34,950 [INFO]     Reviews page 2/6: B0CHRL351K
+2026-04-02 18:37:40,853 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:37:44,726 [INFO]     Reviews page 3/6: B0CHRL351K
+2026-04-02 18:37:50,722 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:37:54,442 [INFO]     Reviews page 4/6: B0CHRL351K
+2026-04-02 18:38:00,319 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:38:02,757 [INFO]     Reviews page 5/6: B0CHRL351K
+2026-04-02 18:38:08,758 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:38:12,403 [INFO]     Reviews page 6/6: B0CHRL351K
+2026-04-02 18:38:18,660 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:38:21,437 [INFO]     -> 36 reviews for B0CHRL351K
+2026-04-02 18:38:26,004 [INFO]     Reviews page 1/6: B09815BNCJ
+2026-04-02 18:38:32,939 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:38:34,954 [INFO]     Reviews page 2/6: B09815BNCJ
+2026-04-02 18:38:41,610 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:38:43,919 [INFO]     Reviews page 3/6: B09815BNCJ
+2026-04-02 18:38:50,256 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:38:53,256 [INFO]     Reviews page 4/6: B09815BNCJ
+2026-04-02 18:38:59,395 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:39:02,093 [INFO]     Reviews page 5/6: B09815BNCJ
+2026-04-02 18:39:07,520 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:39:09,905 [INFO]     Reviews page 6/6: B09815BNCJ
+2026-04-02 18:39:16,573 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:39:20,209 [INFO]     -> 36 reviews for B09815BNCJ
+2026-04-02 18:39:25,298 [INFO]     Reviews page 1/6: B0F5HNKXH6
+2026-04-02 18:39:31,402 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:39:34,235 [INFO]     Reviews page 2/6: B0F5HNKXH6
+2026-04-02 18:39:40,995 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:39:43,096 [INFO]     Reviews page 3/6: B0F5HNKXH6
+2026-04-02 18:39:48,825 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:39:51,265 [INFO]     Reviews page 4/6: B0F5HNKXH6
+2026-04-02 18:39:58,188 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:40:01,338 [INFO]     Reviews page 5/6: B0F5HNKXH6
+2026-04-02 18:40:08,469 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:40:10,952 [INFO]     Reviews page 6/6: B0F5HNKXH6
+2026-04-02 18:40:17,704 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:40:20,996 [INFO]     -> 54 reviews for B0F5HNKXH6
+2026-04-02 18:40:25,605 [INFO]     Reviews page 1/6: B0F5HQQ361
+2026-04-02 18:40:32,284 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:40:35,428 [INFO]     Reviews page 2/6: B0F5HQQ361
+2026-04-02 18:40:42,016 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:40:45,584 [INFO]     Reviews page 3/6: B0F5HQQ361
+2026-04-02 18:40:51,666 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:40:55,618 [INFO]     Reviews page 4/6: B0F5HQQ361
+2026-04-02 18:41:01,312 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:41:04,919 [INFO]     Reviews page 5/6: B0F5HQQ361
+2026-04-02 18:41:12,245 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:41:15,829 [INFO]     Reviews page 6/6: B0F5HQQ361
+2026-04-02 18:41:22,587 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:41:25,317 [INFO]     -> 30 reviews for B0F5HQQ361
+2026-04-02 18:41:28,826 [INFO] 
+American Tourister: 10 new products, 432 reviews total
+2026-04-02 18:41:35,588 [INFO] 
+============================================================
+Brand: VIP
+============================================================
+2026-04-02 18:41:35,679 [INFO]   Search page 1: VIP
+2026-04-02 18:41:42,465 [INFO]   Found 60 items on page 1
+2026-04-02 18:41:43,606 [INFO]   -> 10 product URLs for VIP
+2026-04-02 18:41:43,606 [INFO]   Product 1/10
+2026-04-02 18:41:49,351 [INFO]   ✓ VIP — Skybags Medium ABS Trooper Size Hardshell Luggage (65 C  ₹2699.0  4.2★
+2026-04-02 18:41:53,860 [INFO]   Product 2/10
+2026-04-02 18:42:00,003 [INFO]   ✓ VIP — Skybags Rubik Polyester 78 Cms Softsided Large check-in  ₹3099.0  4.2★
+2026-04-02 18:42:03,648 [INFO]   Product 3/10
+2026-04-02 18:42:10,665 [INFO]   ✓ VIP — VIP Unicorn Nxt 8W Str 80 Cm | Check-in Polyester Soft   ₹3029.0  3.7★
+2026-04-02 18:42:15,083 [INFO]   Product 4/10
+2026-04-02 18:42:22,155 [INFO]   ✓ VIP — VIP Quad Active 66 Cm Medium Polypropylene Hard-Sided 8  ₹2399.0  4.2★
+2026-04-02 18:42:26,420 [INFO]   Product 5/10
+2026-04-02 18:42:32,286 [INFO]   ✓ VIP — VIP Corsa Check-in 66 Cm (Medium) 8 Wheels Trolley Bags  ₹2199.0  4.2★
+2026-04-02 18:42:36,339 [INFO]   Product 6/10
+2026-04-02 18:42:43,916 [INFO]   ✓ VIP — Skybags Streax | Check-in Trolley Bag, 76 Cm, Large Har  ₹2699.0  4.2★
+2026-04-02 18:42:48,925 [INFO]   Product 7/10
+2026-04-02 18:42:55,159 [INFO]   ✓ VIP — Skybags Cabin Paratrip Hardshell Luggage (55 Cm) | Poly  ₹1699.0  4.4★
+2026-04-02 18:42:58,836 [INFO]   Product 8/10
+2026-04-02 18:43:06,379 [INFO]   ✓ VIP — Kamiliant American Tourister Harrier | Trolley Bag Chec  ₹2399.0  4.1★
+2026-04-02 18:43:11,112 [INFO]   Product 9/10
+2026-04-02 18:43:18,185 [INFO]   ✓ VIP — VIP Polypropylene (Pp) Quad Active Check-in 75 Cm 8 Spi  ₹3270.0  4.2★
+2026-04-02 18:43:22,877 [INFO]   Product 10/10
+2026-04-02 18:43:29,234 [INFO]   ✓ VIP — Skybags Cabin Stroke Abs Hardshell Luggage (55 Cm) | Pr  ₹1624.0  4.1★
+2026-04-02 18:43:34,294 [INFO]     Reviews page 1/6: B0CBTZP3CL
+2026-04-02 18:43:41,030 [INFO]       Got 6 reviews on page 1
+2026-04-02 18:43:43,965 [INFO]     Reviews page 2/6: B0CBTZP3CL
+2026-04-02 18:43:49,338 [INFO]       Got 6 reviews on page 2
+2026-04-02 18:43:52,568 [INFO]     Reviews page 3/6: B0CBTZP3CL
+2026-04-02 18:43:58,763 [INFO]       Got 6 reviews on page 3
+2026-04-02 18:44:01,348 [INFO]     Reviews page 4/6: B0CBTZP3CL
+2026-04-02 18:44:08,420 [INFO]       Got 6 reviews on page 4
+2026-04-02 18:44:10,924 [INFO]     Reviews page 5/6: B0CBTZP3CL
+2026-04-02 18:44:16,775 [INFO]       Got 6 reviews on page 5
+2026-04-02 18:44:18,799 [INFO]     Reviews page 6/6: B0CBTZP3CL
+2026-04-02 18:44:24,086 [INFO]       Got 6 reviews on page 6
+2026-04-02 18:44:27,637 [INFO]     -> 30 reviews for B0CBTZP3CL
+2026-04-02 18:44:31,663 [INFO]     Reviews page 1/6: B0D4RCWTTZ
+2026-04-02 18:44:38,079 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:44:41,226 [INFO]     Reviews page 2/6: B0D4RCWTTZ
+2026-04-02 18:44:46,979 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:44:50,569 [INFO]     Reviews page 3/6: B0D4RCWTTZ
+2026-04-02 18:44:56,710 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:44:59,519 [INFO]     Reviews page 4/6: B0D4RCWTTZ
+2026-04-02 18:45:06,048 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:45:09,921 [INFO]     Reviews page 5/6: B0D4RCWTTZ
+2026-04-02 18:45:16,390 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:45:20,285 [INFO]     Reviews page 6/6: B0D4RCWTTZ
+2026-04-02 18:45:25,795 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:45:29,435 [INFO]     -> 48 reviews for B0D4RCWTTZ
+2026-04-02 18:45:32,867 [INFO]     Reviews page 1/6: B0DD3W11L4
+2026-04-02 18:45:39,104 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:45:41,849 [INFO]     Reviews page 2/6: B0DD3W11L4
+2026-04-02 18:45:47,966 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:45:51,014 [INFO]     Reviews page 3/6: B0DD3W11L4
+2026-04-02 18:45:57,382 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:45:59,842 [INFO]     Reviews page 4/6: B0DD3W11L4
+2026-04-02 18:46:05,876 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:46:08,082 [INFO]     Reviews page 5/6: B0DD3W11L4
+2026-04-02 18:46:14,574 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:46:17,480 [INFO]     Reviews page 6/6: B0DD3W11L4
+2026-04-02 18:46:24,456 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:46:28,253 [INFO]     -> 48 reviews for B0DD3W11L4
+2026-04-02 18:46:32,834 [INFO]     Reviews page 1/6: B0FFBBZT6M
+2026-04-02 18:46:39,441 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:46:42,566 [INFO]     Reviews page 2/6: B0FFBBZT6M
+2026-04-02 18:46:49,404 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:46:51,657 [INFO]     Reviews page 3/6: B0FFBBZT6M
+2026-04-02 18:46:56,981 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:46:59,944 [INFO]     Reviews page 4/6: B0FFBBZT6M
+2026-04-02 18:47:07,200 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:47:10,797 [INFO]     Reviews page 5/6: B0FFBBZT6M
+2026-04-02 18:47:17,594 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:47:20,826 [INFO]     Reviews page 6/6: B0FFBBZT6M
+2026-04-02 18:47:27,533 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:47:29,659 [INFO]     -> 30 reviews for B0FFBBZT6M
+2026-04-02 18:47:33,735 [INFO]     Reviews page 1/6: B0D4RD23TM
+2026-04-02 18:47:39,761 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:47:41,831 [INFO]     Reviews page 2/6: B0D4RD23TM
+2026-04-02 18:47:48,701 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:47:51,946 [INFO]     Reviews page 3/6: B0D4RD23TM
+2026-04-02 18:47:59,016 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:48:01,603 [INFO]     Reviews page 4/6: B0D4RD23TM
+2026-04-02 18:48:08,713 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:48:11,863 [INFO]     Reviews page 5/6: B0D4RD23TM
+2026-04-02 18:48:17,668 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:48:21,283 [INFO]     Reviews page 6/6: B0D4RD23TM
+2026-04-02 18:48:27,508 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:48:30,231 [INFO]     -> 48 reviews for B0D4RD23TM
+2026-04-02 18:48:34,058 [INFO] 
+VIP: 10 new products, 204 reviews total
+2026-04-02 18:48:41,141 [INFO] 
+============================================================
+Brand: Aristocrat
+============================================================
+2026-04-02 18:48:41,233 [INFO]   Search page 1: Aristocrat
+2026-04-02 18:48:47,680 [INFO]   Found 60 items on page 1
+2026-04-02 18:48:48,862 [INFO]   -> 10 product URLs for Aristocrat
+2026-04-02 18:48:48,862 [INFO]   Product 1/10
+2026-04-02 18:48:55,245 [INFO]   ✓ Aristocrat — Aristocrat Liberty Medium (Check-in) Trolley Bag, 68Cm   ₹1949.0  4.2★
+2026-04-02 18:48:59,821 [INFO]   Product 2/10
+2026-04-02 18:49:06,217 [INFO]   ✓ Aristocrat — Aristocrat Atlas Check-in Trolley Bag 66cm | Medium | H  ₹2049.0  4.1★
+2026-04-02 18:49:10,397 [INFO]   Product 3/10
+2026-04-02 18:49:16,156 [INFO]   ✓ Aristocrat — Aristocrat Cabin Polypropylene Airpro 55 Cm(Small) 8 Sp  ₹1599.0  4.1★
+2026-04-02 18:49:20,075 [INFO]   Product 4/10
+2026-04-02 18:49:25,785 [INFO]   ✓ Aristocrat — Aristocrat Drift Check-in Expander Trolley Bag 79cm | L  ₹2519.0  4.2★
+2026-04-02 18:49:29,361 [INFO]   Product 5/10
+2026-04-02 18:49:35,881 [INFO]   ✓ Aristocrat — Aristocrat Medium Airpro Check-in 66 Cm() Polypropylene  ₹1999.0  4.1★
+2026-04-02 18:49:40,004 [INFO]   Product 6/10
+2026-04-02 18:49:46,308 [INFO]   ✓ Aristocrat — Aristocrat Cabin Airpro Plus 55 Cm(Small) 8 Wheel Spinn  ₹1499.0  4.1★
+2026-04-02 18:49:51,164 [INFO]   Product 7/10
+2026-04-02 18:49:57,759 [INFO]   ✓ Aristocrat — Aristocrat Skyway Large Size Soft Check in Luggage (79   ₹2699.0  4.2★
+2026-04-02 18:50:01,119 [INFO]   Product 8/10
+2026-04-02 18:50:08,126 [INFO]   ✓ Aristocrat — Aristocrat Comet Set of 2 Trolley Bag 56, 66cm | Small+  ₹3149.0  4.1★
+2026-04-02 18:50:11,523 [INFO]   Product 9/10
+2026-04-02 18:50:17,454 [INFO]   ✓ Aristocrat — Aristocrat Bruce Cabin Trolley Bag 54cm | Small | Hard   ₹1489.0  3.9★
+2026-04-02 18:50:21,492 [INFO]   Product 10/10
+2026-04-02 18:50:27,851 [INFO]   ✓ Aristocrat — Aristocrat Medium Polypropylene Airpro Plus Check-in 66  ₹1899.0  4.1★
+2026-04-02 18:50:32,375 [INFO]     Reviews page 1/6: B0FMF4NSXP
+2026-04-02 18:50:38,723 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:50:42,462 [INFO]     Reviews page 2/6: B0FMF4NSXP
+2026-04-02 18:50:47,585 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:50:50,243 [INFO]     Reviews page 3/6: B0FMF4NSXP
+2026-04-02 18:50:56,158 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:50:58,201 [INFO]     Reviews page 4/6: B0FMF4NSXP
+2026-04-02 18:51:03,745 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:51:06,696 [INFO]     Reviews page 5/6: B0FMF4NSXP
+2026-04-02 18:51:12,094 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:51:15,261 [INFO]     Reviews page 6/6: B0FMF4NSXP
+2026-04-02 18:51:22,011 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:51:25,154 [INFO]     -> 48 reviews for B0FMF4NSXP
+2026-04-02 18:51:29,127 [INFO]     Reviews page 1/6: B0FPXH2SP9
+2026-04-02 18:51:36,294 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:51:38,899 [INFO]     Reviews page 2/6: B0FPXH2SP9
+2026-04-02 18:51:45,161 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:51:48,244 [INFO]     Reviews page 3/6: B0FPXH2SP9
+2026-04-02 18:51:55,457 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:51:57,515 [INFO]     Reviews page 4/6: B0FPXH2SP9
+2026-04-02 18:52:03,737 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:52:07,408 [INFO]     Reviews page 5/6: B0FPXH2SP9
+2026-04-02 18:52:12,948 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:52:15,321 [INFO]     Reviews page 6/6: B0FPXH2SP9
+2026-04-02 18:52:21,956 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:52:25,324 [INFO]     -> 48 reviews for B0FPXH2SP9
+2026-04-02 18:52:29,059 [INFO]     Reviews page 1/6: B0D4RBM6Q6
+2026-04-02 18:52:35,448 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:52:38,919 [INFO]     Reviews page 2/6: B0D4RBM6Q6
+2026-04-02 18:52:45,088 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:52:47,597 [INFO]     Reviews page 3/6: B0D4RBM6Q6
+2026-04-02 18:52:54,506 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:52:57,686 [INFO]     Reviews page 4/6: B0D4RBM6Q6
+2026-04-02 18:53:03,492 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:53:06,737 [INFO]     Reviews page 5/6: B0D4RBM6Q6
+2026-04-02 18:53:13,255 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:53:15,737 [INFO]     Reviews page 6/6: B0D4RBM6Q6
+2026-04-02 18:53:22,253 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:53:25,696 [INFO]     -> 30 reviews for B0D4RBM6Q6
+2026-04-02 18:53:28,845 [INFO]     Reviews page 1/6: B0FPCGVTH9
+2026-04-02 18:53:35,506 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:53:38,370 [INFO]     Reviews page 2/6: B0FPCGVTH9
+2026-04-02 18:53:45,100 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:53:47,160 [INFO]     Reviews page 3/6: B0FPCGVTH9
+2026-04-02 18:53:54,172 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:53:57,683 [INFO]     Reviews page 4/6: B0FPCGVTH9
+2026-04-02 18:54:03,589 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:54:06,346 [INFO]     Reviews page 5/6: B0FPCGVTH9
+2026-04-02 18:54:13,290 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:54:16,556 [INFO]     Reviews page 6/6: B0FPCGVTH9
+2026-04-02 18:54:23,516 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:54:26,527 [INFO]     -> 48 reviews for B0FPCGVTH9
+2026-04-02 18:54:30,613 [INFO]     Reviews page 1/6: B0BRN1XLSS
+2026-04-02 18:54:36,996 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:54:39,083 [INFO]     Reviews page 2/6: B0BRN1XLSS
+2026-04-02 18:54:45,895 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:54:48,569 [INFO]     Reviews page 3/6: B0BRN1XLSS
+2026-04-02 18:54:55,325 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:54:58,597 [INFO]     Reviews page 4/6: B0BRN1XLSS
+2026-04-02 18:55:04,375 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:55:07,528 [INFO]     Reviews page 5/6: B0BRN1XLSS
+2026-04-02 18:55:13,164 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:55:16,035 [INFO]     Reviews page 6/6: B0BRN1XLSS
+2026-04-02 18:55:21,598 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:55:25,528 [INFO]     -> 30 reviews for B0BRN1XLSS
+2026-04-02 18:55:29,269 [INFO]     Reviews page 1/6: B0DG2CJQCW
+2026-04-02 18:55:35,381 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:55:38,236 [INFO]     Reviews page 2/6: B0DG2CJQCW
+2026-04-02 18:55:44,347 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:55:48,183 [INFO]     Reviews page 3/6: B0DG2CJQCW
+2026-04-02 18:55:53,709 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:55:56,944 [INFO]     Reviews page 4/6: B0DG2CJQCW
+2026-04-02 18:56:04,142 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:56:07,123 [INFO]     Reviews page 5/6: B0DG2CJQCW
+2026-04-02 18:56:13,906 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:56:16,476 [INFO]     Reviews page 6/6: B0DG2CJQCW
+2026-04-02 18:56:22,099 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:56:25,656 [INFO]     -> 54 reviews for B0DG2CJQCW
+2026-04-02 18:56:30,743 [INFO]     Reviews page 1/6: B0C8YWY72M
+2026-04-02 18:56:36,543 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:56:40,037 [INFO]     Reviews page 2/6: B0C8YWY72M
+2026-04-02 18:56:46,133 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:56:49,673 [INFO]     Reviews page 3/6: B0C8YWY72M
+2026-04-02 18:56:55,825 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:56:58,546 [INFO]     Reviews page 4/6: B0C8YWY72M
+2026-04-02 18:57:05,502 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:57:08,305 [INFO]     Reviews page 5/6: B0C8YWY72M
+2026-04-02 18:57:15,110 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:57:18,697 [INFO]     Reviews page 6/6: B0C8YWY72M
+2026-04-02 18:57:24,236 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:57:28,171 [INFO]     -> 48 reviews for B0C8YWY72M
+2026-04-02 18:57:32,268 [INFO]     Reviews page 1/6: B0FC6L8H6G
+2026-04-02 18:57:38,926 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:57:41,078 [INFO]     Reviews page 2/6: B0FC6L8H6G
+2026-04-02 18:57:46,328 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:57:49,668 [INFO]     Reviews page 3/6: B0FC6L8H6G
+2026-04-02 18:57:55,107 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:57:58,710 [INFO]     Reviews page 4/6: B0FC6L8H6G
+2026-04-02 18:58:04,903 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:58:08,830 [INFO]     Reviews page 5/6: B0FC6L8H6G
+2026-04-02 18:58:15,394 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:58:18,572 [INFO]     Reviews page 6/6: B0FC6L8H6G
+2026-04-02 18:58:24,479 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:58:27,789 [INFO]     -> 48 reviews for B0FC6L8H6G
+2026-04-02 18:58:32,177 [INFO]     Reviews page 1/6: B0FMDR8HNS
+2026-04-02 18:58:38,562 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:58:42,437 [INFO]     Reviews page 2/6: B0FMDR8HNS
+2026-04-02 18:58:48,865 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:58:52,518 [INFO]     Reviews page 3/6: B0FMDR8HNS
+2026-04-02 18:58:58,200 [INFO]       Got 10 reviews on page 3
+2026-04-02 18:59:00,435 [INFO]     Reviews page 4/6: B0FMDR8HNS
+2026-04-02 18:59:07,216 [INFO]       Got 10 reviews on page 4
+2026-04-02 18:59:10,639 [INFO]     Reviews page 5/6: B0FMDR8HNS
+2026-04-02 18:59:17,696 [INFO]       Got 10 reviews on page 5
+2026-04-02 18:59:20,687 [INFO]     Reviews page 6/6: B0FMDR8HNS
+2026-04-02 18:59:27,522 [INFO]       Got 10 reviews on page 6
+2026-04-02 18:59:31,174 [INFO]     -> 48 reviews for B0FMDR8HNS
+2026-04-02 18:59:34,401 [INFO]     Reviews page 1/6: B0DG2GD4N9
+2026-04-02 18:59:40,869 [INFO]       Got 10 reviews on page 1
+2026-04-02 18:59:43,059 [INFO]     Reviews page 2/6: B0DG2GD4N9
+2026-04-02 18:59:49,948 [INFO]       Got 10 reviews on page 2
+2026-04-02 18:59:53,577 [INFO]     Reviews page 3/6: B0DG2GD4N9
+2026-04-02 18:59:59,733 [INFO]       Got 10 reviews on page 3
+2026-04-02 19:00:02,839 [INFO]     Reviews page 4/6: B0DG2GD4N9
+2026-04-02 19:00:08,351 [INFO]       Got 10 reviews on page 4
+2026-04-02 19:00:12,226 [INFO]     Reviews page 5/6: B0DG2GD4N9
+2026-04-02 19:00:18,415 [INFO]       Got 10 reviews on page 5
+2026-04-02 19:00:22,365 [INFO]     Reviews page 6/6: B0DG2GD4N9
+2026-04-02 19:00:29,688 [INFO]       Got 10 reviews on page 6
+2026-04-02 19:00:33,177 [INFO]     -> 54 reviews for B0DG2GD4N9
+2026-04-02 19:00:37,091 [INFO] 
+Aristocrat: 10 new products, 456 reviews total
+2026-04-02 19:00:44,713 [INFO] 
+============================================================
+Brand: Nasher Miles
+============================================================
+2026-04-02 19:00:44,802 [INFO]   Search page 1: Nasher Miles
+2026-04-02 19:00:50,785 [INFO]   Found 60 items on page 1
+2026-04-02 19:00:51,871 [INFO]   -> 10 product URLs for Nasher Miles
+2026-04-02 19:00:51,871 [INFO]   Product 1/10
+2026-04-02 19:00:58,638 [INFO]   ✓ Nasher Miles — Nasher Miles Polypropylene 360 Degree Paris Hard-Sided   ₹3499.0  4.2★
+2026-04-02 19:01:03,514 [INFO]   Product 2/10
+2026-04-02 19:01:09,867 [INFO]   ✓ Nasher Miles — Nasher Miles Paris Hard-Sided Polypropylene Check-in Lu  ₹3499.0  4.2★
+2026-04-02 19:01:14,776 [INFO]   Product 3/10
+2026-04-02 19:01:21,765 [INFO]   ✓ Nasher Miles — Nasher Miles Paris Hard-Sided Polypropylene Check-in Lu  ₹2796.0  4.2★
+2026-04-02 19:01:26,215 [INFO]   Product 4/10
+2026-04-02 19:01:33,202 [INFO]   ✓ Nasher Miles — Nasher Miles Mexico Hard-Sided Polycarbonate Check-in L  ₹3099.0  3.9★
+2026-04-02 19:01:38,170 [INFO]   Product 5/10
+2026-04-02 19:01:45,269 [INFO]   ✓ Nasher Miles — Nasher Miles Paris Hard-Sided Polypropylene Check-in Lu  ₹3089.0  4.2★
+2026-04-02 19:01:49,747 [INFO]   Product 6/10
+2026-04-02 19:01:55,612 [INFO]   ✓ Nasher Miles — Nasher Miles Paris Hard-Sided Polypropylene Check-in Lu  ₹2969.0  4.2★
+2026-04-02 19:01:59,903 [INFO]   Product 7/10
+2026-04-02 19:02:06,860 [INFO]   ✓ Nasher Miles — Nasher Miles Medium Polypropylene Spinner Vienna Hard-S  ₹2999.0  4.2★
+2026-04-02 19:02:11,227 [INFO]   Product 8/10
+2026-04-02 19:02:18,540 [INFO]   ✓ Nasher Miles — Nasher Miles Cabin Vienna Hard-Sided Polypropylene Lugg  ₹2599.0  4.2★
+2026-04-02 19:02:21,989 [INFO]   Product 9/10
+2026-04-02 19:02:28,886 [INFO]   ✓ Nasher Miles — Nasher Miles Springfield Hard-Sided Polypropylene Check  ₹2799.0  3.7★
+2026-04-02 19:02:33,902 [INFO]   Product 10/10
+2026-04-02 19:02:39,825 [INFO]   ✓ Nasher Miles — Nasher Miles Krabi Expander Hard-Sided Polypropylene Ch  ₹3699.0  4.4★
+2026-04-02 19:02:44,525 [INFO]     Reviews page 1/6: B0D9VV7G4Z
+2026-04-02 19:02:51,283 [INFO]       Got 10 reviews on page 1
+2026-04-02 19:02:54,725 [INFO]     Reviews page 2/6: B0D9VV7G4Z
+2026-04-02 19:03:01,680 [INFO]       Got 10 reviews on page 2
+2026-04-02 19:03:05,118 [INFO]     Reviews page 3/6: B0D9VV7G4Z
+2026-04-02 19:03:11,379 [INFO]       Got 10 reviews on page 3
+2026-04-02 19:03:14,736 [INFO]     Reviews page 4/6: B0D9VV7G4Z
+2026-04-02 19:03:20,556 [INFO]       Got 10 reviews on page 4
+2026-04-02 19:03:24,062 [INFO]     Reviews page 5/6: B0D9VV7G4Z
+2026-04-02 19:03:30,229 [INFO]       Got 10 reviews on page 5
+2026-04-02 19:03:33,483 [INFO]     Reviews page 6/6: B0D9VV7G4Z
+2026-04-02 19:03:38,645 [INFO]       Got 10 reviews on page 6
+2026-04-02 19:03:41,462 [INFO]     -> 54 reviews for B0D9VV7G4Z
+2026-04-02 19:03:45,783 [INFO]     Reviews page 1/6: B0CVS1WZ1C
+2026-04-02 19:03:52,431 [INFO]       Got 10 reviews on page 1
+2026-04-02 19:03:56,205 [INFO]     Reviews page 2/6: B0CVS1WZ1C
+2026-04-02 19:04:01,850 [INFO]       Got 10 reviews on page 2
+2026-04-02 19:04:04,205 [INFO]     Reviews page 3/6: B0CVS1WZ1C
+2026-04-02 19:04:11,487 [INFO]       Got 10 reviews on page 3
+2026-04-02 19:04:15,458 [INFO]     Reviews page 4/6: B0CVS1WZ1C
+2026-04-02 19:04:22,753 [INFO]       Got 10 reviews on page 4
+2026-04-02 19:04:26,711 [INFO]     Reviews page 5/6: B0CVS1WZ1C
+2026-04-02 19:04:32,450 [INFO]       Got 10 reviews on page 5
+2026-04-02 19:04:36,311 [INFO]     Reviews page 6/6: B0CVS1WZ1C
+2026-04-02 19:04:41,930 [INFO]       Got 10 reviews on page 6
+2026-04-02 19:04:45,758 [INFO]     -> 54 reviews for B0CVS1WZ1C
+2026-04-02 19:04:50,081 [INFO]     Reviews page 1/6: B09G715R22
+2026-04-02 19:04:55,979 [INFO]       Got 10 reviews on page 1
+2026-04-02 19:04:58,413 [INFO]     Reviews page 2/6: B09G715R22
+2026-04-02 19:05:04,795 [INFO]       Got 10 reviews on page 2
+2026-04-02 19:05:08,042 [INFO]     Reviews page 3/6: B09G715R22
+2026-04-02 19:05:15,101 [INFO]       Got 10 reviews on page 3
+2026-04-02 19:05:18,476 [INFO]     Reviews page 4/6: B09G715R22
+2026-04-02 19:05:23,908 [INFO]       Got 10 reviews on page 4
+2026-04-02 19:05:26,311 [INFO]     Reviews page 5/6: B09G715R22
+2026-04-02 19:05:31,615 [INFO]       Got 10 reviews on page 5
+2026-04-02 19:05:34,384 [INFO]     Reviews page 6/6: B09G715R22
+2026-04-02 19:05:40,749 [INFO]       Got 10 reviews on page 6
+2026-04-02 19:05:44,696 [INFO]     -> 54 reviews for B09G715R22
+2026-04-02 19:05:49,727 [INFO]     Reviews page 1/6: B0D9MCK8K4
+2026-04-02 19:05:55,123 [INFO]       Got 10 reviews on page 1
+2026-04-02 19:05:57,621 [INFO]     Reviews page 2/6: B0D9MCK8K4
+2026-04-02 19:06:03,469 [INFO]       Got 10 reviews on page 2
+2026-04-02 19:06:06,992 [INFO]     Reviews page 3/6: B0D9MCK8K4
+2026-04-02 19:06:13,414 [INFO]       Got 10 reviews on page 3
+2026-04-02 19:06:16,402 [INFO]     Reviews page 4/6: B0D9MCK8K4
+2026-04-02 19:06:22,680 [INFO]       Got 10 reviews on page 4
+2026-04-02 19:06:25,331 [INFO]     Reviews page 5/6: B0D9MCK8K4
+2026-04-02 19:06:31,022 [INFO]       Got 10 reviews on page 5
+2026-04-02 19:06:34,851 [INFO]     Reviews page 6/6: B0D9MCK8K4
+2026-04-02 19:06:41,802 [INFO]       Got 10 reviews on page 6
+2026-04-02 19:06:44,146 [INFO]     -> 48 reviews for B0D9MCK8K4
+2026-04-02 19:06:47,563 [INFO]     Reviews page 1/6: B0GCZGLLK5
+2026-04-02 19:06:53,438 [INFO]       Got 10 reviews on page 1
+2026-04-02 19:06:57,330 [INFO]     Reviews page 2/6: B0GCZGLLK5
+2026-04-02 19:07:03,490 [INFO]       Got 10 reviews on page 2
+2026-04-02 19:07:05,881 [INFO]     Reviews page 3/6: B0GCZGLLK5
+2026-04-02 19:07:11,989 [INFO]       Got 10 reviews on page 3
+2026-04-02 19:07:14,402 [INFO]     Reviews page 4/6: B0GCZGLLK5
+2026-04-02 19:07:21,357 [INFO]       Got 10 reviews on page 4
+2026-04-02 19:07:25,040 [INFO]     Reviews page 5/6: B0GCZGLLK5
+2026-04-02 19:07:31,906 [INFO]       Got 10 reviews on page 5
+2026-04-02 19:07:34,262 [INFO]     Reviews page 6/6: B0GCZGLLK5
+2026-04-02 19:07:39,543 [INFO]       Got 10 reviews on page 6
+2026-04-02 19:07:43,152 [INFO]     -> 54 reviews for B0GCZGLLK5
+2026-04-02 19:07:47,192 [INFO]     Reviews page 1/6: B0GCZJR5ZY
+2026-04-02 19:07:54,139 [INFO]       Got 10 reviews on page 1
+2026-04-02 19:07:57,067 [INFO]     Reviews page 2/6: B0GCZJR5ZY
+2026-04-02 19:08:03,515 [INFO]       Got 10 reviews on page 2
+2026-04-02 19:08:07,429 [INFO]     Reviews page 3/6: B0GCZJR5ZY
+2026-04-02 19:08:14,205 [INFO]       Got 10 reviews on page 3
+2026-04-02 19:08:16,966 [INFO]     Reviews page 4/6: B0GCZJR5ZY
+2026-04-02 19:08:22,901 [INFO]       Got 10 reviews on page 4
+2026-04-02 19:08:25,042 [INFO]     Reviews page 5/6: B0GCZJR5ZY
+2026-04-02 19:08:31,716 [INFO]       Got 10 reviews on page 5
+2026-04-02 19:08:35,035 [INFO]     Reviews page 6/6: B0GCZJR5ZY
+2026-04-02 19:08:41,365 [INFO]       Got 10 reviews on page 6
+2026-04-02 19:08:43,772 [INFO]     -> 54 reviews for B0GCZJR5ZY
+2026-04-02 19:08:48,223 [INFO]     Reviews page 1/6: B0CGTVMZBX
+2026-04-02 19:08:54,796 [INFO]       Got 10 reviews on page 1
+2026-04-02 19:08:58,596 [INFO]     Reviews page 2/6: B0CGTVMZBX
+2026-04-02 19:09:03,607 [INFO]       Got 10 reviews on page 2
+2026-04-02 19:09:06,682 [INFO]     Reviews page 3/6: B0CGTVMZBX
+2026-04-02 19:09:13,158 [INFO]       Got 10 reviews on page 3
+2026-04-02 19:09:15,873 [INFO]     Reviews page 4/6: B0CGTVMZBX
+2026-04-02 19:09:22,692 [INFO]       Got 10 reviews on page 4
+2026-04-02 19:09:25,856 [INFO]     Reviews page 5/6: B0CGTVMZBX
+2026-04-02 19:09:31,225 [INFO]       Got 10 reviews on page 5
+2026-04-02 19:09:34,179 [INFO]     Reviews page 6/6: B0CGTVMZBX
+2026-04-02 19:09:41,069 [INFO]       Got 10 reviews on page 6
+2026-04-02 19:09:43,335 [INFO]     -> 48 reviews for B0CGTVMZBX
+2026-04-02 19:09:48,092 [INFO]     Reviews page 1/6: B0CGTX3Z86
+2026-04-02 19:09:54,754 [INFO]       Got 10 reviews on page 1
+2026-04-02 19:09:58,288 [INFO]     Reviews page 2/6: B0CGTX3Z86
+2026-04-02 19:10:04,972 [INFO]       Got 10 reviews on page 2
+2026-04-02 19:10:07,833 [INFO]     Reviews page 3/6: B0CGTX3Z86
+2026-04-02 19:10:13,469 [INFO]       Got 10 reviews on page 3
+2026-04-02 19:10:15,770 [INFO]     Reviews page 4/6: B0CGTX3Z86
+2026-04-02 19:10:22,396 [INFO]       Got 10 reviews on page 4
+2026-04-02 19:10:25,629 [INFO]     Reviews page 5/6: B0CGTX3Z86
+2026-04-02 19:10:31,839 [INFO]       Got 10 reviews on page 5
+2026-04-02 19:10:33,944 [INFO]     Reviews page 6/6: B0CGTX3Z86
+2026-04-02 19:10:39,504 [INFO]       Got 10 reviews on page 6
+2026-04-02 19:10:43,028 [INFO]     -> 48 reviews for B0CGTX3Z86
+2026-04-02 19:10:46,491 [INFO]     Reviews page 1/6: B0D47KQ81Z
+2026-04-02 19:10:52,079 [INFO]       Got 10 reviews on page 1
+2026-04-02 19:10:55,657 [INFO]     Reviews page 2/6: B0D47KQ81Z
+2026-04-02 19:11:02,086 [INFO]       Got 10 reviews on page 2
+2026-04-02 19:11:05,143 [INFO]     Reviews page 3/6: B0D47KQ81Z
+2026-04-02 19:11:12,048 [INFO]       Got 10 reviews on page 3
+2026-04-02 19:11:14,080 [INFO]     Reviews page 4/6: B0D47KQ81Z
+2026-04-02 19:11:20,127 [INFO]       Got 10 reviews on page 4
+2026-04-02 19:11:23,834 [INFO]     Reviews page 5/6: B0D47KQ81Z
+2026-04-02 19:11:29,544 [INFO]       Got 10 reviews on page 5
+2026-04-02 19:11:31,776 [INFO]     Reviews page 6/6: B0D47KQ81Z
+2026-04-02 19:11:38,269 [INFO]       Got 10 reviews on page 6
+2026-04-02 19:11:41,882 [INFO]     -> 60 reviews for B0D47KQ81Z
+2026-04-02 19:11:45,197 [INFO]     Reviews page 1/6: B0D6BS5BGY
+2026-04-02 19:11:51,058 [INFO]       Got 10 reviews on page 1
+2026-04-02 19:11:53,850 [INFO]     Reviews page 2/6: B0D6BS5BGY
+2026-04-02 19:11:59,914 [INFO]       Got 10 reviews on page 2
+2026-04-02 19:12:03,293 [INFO]     Reviews page 3/6: B0D6BS5BGY
+2026-04-02 19:12:09,059 [INFO]       Got 10 reviews on page 3
+2026-04-02 19:12:12,118 [INFO]     Reviews page 4/6: B0D6BS5BGY
+2026-04-02 19:12:18,354 [INFO]       Got 10 reviews on page 4
+2026-04-02 19:12:21,975 [INFO]     Reviews page 5/6: B0D6BS5BGY
+2026-04-02 19:12:28,916 [INFO]       Got 10 reviews on page 5
+2026-04-02 19:12:32,057 [INFO]     Reviews page 6/6: B0D6BS5BGY
+2026-04-02 19:12:38,774 [INFO]       Got 10 reviews on page 6
+2026-04-02 19:12:41,979 [INFO]     -> 60 reviews for B0D6BS5BGY
+2026-04-02 19:12:46,707 [INFO] 
+Nasher Miles: 10 new products, 534 reviews total
+2026-04-02 19:12:54,533 [INFO] 
+============================================================
+2026-04-02 19:12:54,533 [INFO] Done! 60 products, 2586 reviews
+2026-04-02 19:12:54,533 [INFO] Next: cd ../pipeline && python process.py
+2026-04-02 19:12:54,533 [INFO] ============================================================

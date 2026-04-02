@@ -1,0 +1,614 @@
+{
+  "Safari": {
+    "total_reviews": 528,
+    "positive_count": 204,
+    "negative_count": 132,
+    "neutral_count": 192,
+    "sentiment_pct": {
+      "positive": 38.6,
+      "negative": 25.0,
+      "neutral": 36.4
+    },
+    "aspects": {
+      "handle": {
+        "positive": 12,
+        "negative": 60,
+        "mentions": 72
+      },
+      "material": {
+        "positive": 156,
+        "negative": 72,
+        "mentions": 228
+      },
+      "weight": {
+        "positive": 12,
+        "negative": 24,
+        "mentions": 36
+      },
+      "price": {
+        "positive": 60,
+        "negative": 48,
+        "mentions": 108
+      },
+      "delivery": {
+        "positive": 48,
+        "negative": 0,
+        "mentions": 48
+      },
+      "customer_service": {
+        "positive": 24,
+        "negative": 12,
+        "mentions": 36
+      },
+      "size": {
+        "positive": 12,
+        "negative": 48,
+        "mentions": 84
+      },
+      "wheels": {
+        "positive": 24,
+        "negative": 12,
+        "mentions": 36
+      },
+      "zipper": {
+        "positive": 0,
+        "negative": 24,
+        "mentions": 60
+      }
+    },
+    "top_complaints": [
+      [
+        "material",
+        72
+      ],
+      [
+        "handle",
+        60
+      ],
+      [
+        "size",
+        48
+      ],
+      [
+        "price",
+        48
+      ],
+      [
+        "weight",
+        24
+      ]
+    ],
+    "top_praises": [
+      [
+        "material",
+        156
+      ],
+      [
+        "price",
+        60
+      ],
+      [
+        "delivery",
+        48
+      ],
+      [
+        "customer_service",
+        24
+      ],
+      [
+        "wheels",
+        24
+      ]
+    ]
+  },
+  "Skybags": {
+    "total_reviews": 432,
+    "positive_count": 270,
+    "negative_count": 96,
+    "neutral_count": 66,
+    "sentiment_pct": {
+      "positive": 62.5,
+      "negative": 22.2,
+      "neutral": 15.3
+    },
+    "aspects": {
+      "material": {
+        "positive": 126,
+        "negative": 54,
+        "mentions": 192
+      },
+      "wheels": {
+        "positive": 42,
+        "negative": 12,
+        "mentions": 54
+      },
+      "zipper": {
+        "positive": 18,
+        "negative": 24,
+        "mentions": 48
+      },
+      "customer_service": {
+        "positive": 0,
+        "negative": 30,
+        "mentions": 36
+      },
+      "size": {
+        "positive": 42,
+        "negative": 6,
+        "mentions": 60
+      },
+      "weight": {
+        "positive": 12,
+        "negative": 0,
+        "mentions": 12
+      },
+      "delivery": {
+        "positive": 18,
+        "negative": 24,
+        "mentions": 42
+      },
+      "price": {
+        "positive": 60,
+        "negative": 12,
+        "mentions": 78
+      },
+      "handle": {
+        "positive": 6,
+        "negative": 30,
+        "mentions": 42
+      }
+    },
+    "top_complaints": [
+      [
+        "material",
+        54
+      ],
+      [
+        "customer_service",
+        30
+      ],
+      [
+        "handle",
+        30
+      ],
+      [
+        "zipper",
+        24
+      ],
+      [
+        "delivery",
+        24
+      ]
+    ],
+    "top_praises": [
+      [
+        "material",
+        126
+      ],
+      [
+        "price",
+        60
+      ],
+      [
+        "wheels",
+        42
+      ],
+      [
+        "size",
+        42
+      ],
+      [
+        "zipper",
+        18
+      ]
+    ]
+  },
+  "American Tourister": {
+    "total_reviews": 432,
+    "positive_count": 228,
+    "negative_count": 120,
+    "neutral_count": 84,
+    "sentiment_pct": {
+      "positive": 52.8,
+      "negative": 27.8,
+      "neutral": 19.4
+    },
+    "aspects": {
+      "wheels": {
+        "positive": 12,
+        "negative": 0,
+        "mentions": 12
+      },
+      "handle": {
+        "positive": 36,
+        "negative": 12,
+        "mentions": 48
+      },
+      "material": {
+        "positive": 72,
+        "negative": 54,
+        "mentions": 144
+      },
+      "price": {
+        "positive": 60,
+        "negative": 24,
+        "mentions": 96
+      },
+      "delivery": {
+        "positive": 12,
+        "negative": 12,
+        "mentions": 24
+      },
+      "weight": {
+        "positive": 24,
+        "negative": 6,
+        "mentions": 48
+      },
+      "size": {
+        "positive": 6,
+        "negative": 30,
+        "mentions": 36
+      },
+      "zipper": {
+        "positive": 24,
+        "negative": 12,
+        "mentions": 48
+      },
+      "customer_service": {
+        "positive": 12,
+        "negative": 12,
+        "mentions": 24
+      }
+    },
+    "top_complaints": [
+      [
+        "material",
+        54
+      ],
+      [
+        "size",
+        30
+      ],
+      [
+        "price",
+        24
+      ],
+      [
+        "delivery",
+        12
+      ],
+      [
+        "customer_service",
+        12
+      ]
+    ],
+    "top_praises": [
+      [
+        "material",
+        72
+      ],
+      [
+        "price",
+        60
+      ],
+      [
+        "handle",
+        36
+      ],
+      [
+        "zipper",
+        24
+      ],
+      [
+        "weight",
+        24
+      ]
+    ]
+  },
+  "VIP": {
+    "total_reviews": 204,
+    "positive_count": 126,
+    "negative_count": 48,
+    "neutral_count": 30,
+    "sentiment_pct": {
+      "positive": 61.8,
+      "negative": 23.5,
+      "neutral": 14.7
+    },
+    "aspects": {
+      "material": {
+        "positive": 66,
+        "negative": 6,
+        "mentions": 84
+      },
+      "zipper": {
+        "positive": 6,
+        "negative": 24,
+        "mentions": 30
+      },
+      "delivery": {
+        "positive": 0,
+        "negative": 18,
+        "mentions": 18
+      },
+      "customer_service": {
+        "positive": 0,
+        "negative": 18,
+        "mentions": 18
+      },
+      "price": {
+        "positive": 24,
+        "negative": 6,
+        "mentions": 30
+      },
+      "handle": {
+        "positive": 0,
+        "negative": 18,
+        "mentions": 18
+      },
+      "size": {
+        "positive": 12,
+        "negative": 12,
+        "mentions": 30
+      },
+      "weight": {
+        "positive": 6,
+        "negative": 0,
+        "mentions": 6
+      },
+      "wheels": {
+        "positive": 6,
+        "negative": 0,
+        "mentions": 6
+      }
+    },
+    "top_complaints": [
+      [
+        "zipper",
+        24
+      ],
+      [
+        "delivery",
+        18
+      ],
+      [
+        "customer_service",
+        18
+      ],
+      [
+        "handle",
+        18
+      ],
+      [
+        "size",
+        12
+      ]
+    ],
+    "top_praises": [
+      [
+        "material",
+        66
+      ],
+      [
+        "price",
+        24
+      ],
+      [
+        "size",
+        12
+      ],
+      [
+        "zipper",
+        6
+      ],
+      [
+        "weight",
+        6
+      ]
+    ]
+  },
+  "Aristocrat": {
+    "total_reviews": 456,
+    "positive_count": 270,
+    "negative_count": 102,
+    "neutral_count": 84,
+    "sentiment_pct": {
+      "positive": 59.2,
+      "negative": 22.4,
+      "neutral": 18.4
+    },
+    "aspects": {
+      "price": {
+        "positive": 66,
+        "negative": 30,
+        "mentions": 96
+      },
+      "zipper": {
+        "positive": 24,
+        "negative": 36,
+        "mentions": 60
+      },
+      "wheels": {
+        "positive": 30,
+        "negative": 0,
+        "mentions": 42
+      },
+      "material": {
+        "positive": 78,
+        "negative": 48,
+        "mentions": 156
+      },
+      "size": {
+        "positive": 54,
+        "negative": 6,
+        "mentions": 66
+      },
+      "weight": {
+        "positive": 30,
+        "negative": 6,
+        "mentions": 48
+      },
+      "handle": {
+        "positive": 24,
+        "negative": 12,
+        "mentions": 36
+      },
+      "customer_service": {
+        "positive": 18,
+        "negative": 12,
+        "mentions": 42
+      },
+      "delivery": {
+        "positive": 6,
+        "negative": 0,
+        "mentions": 6
+      }
+    },
+    "top_complaints": [
+      [
+        "material",
+        48
+      ],
+      [
+        "zipper",
+        36
+      ],
+      [
+        "price",
+        30
+      ],
+      [
+        "customer_service",
+        12
+      ],
+      [
+        "handle",
+        12
+      ]
+    ],
+    "top_praises": [
+      [
+        "material",
+        78
+      ],
+      [
+        "price",
+        66
+      ],
+      [
+        "size",
+        54
+      ],
+      [
+        "wheels",
+        30
+      ],
+      [
+        "weight",
+        30
+      ]
+    ]
+  },
+  "Nasher Miles": {
+    "total_reviews": 534,
+    "positive_count": 378,
+    "negative_count": 102,
+    "neutral_count": 54,
+    "sentiment_pct": {
+      "positive": 70.8,
+      "negative": 19.1,
+      "neutral": 10.1
+    },
+    "aspects": {
+      "wheels": {
+        "positive": 84,
+        "negative": 0,
+        "mentions": 84
+      },
+      "material": {
+        "positive": 174,
+        "negative": 48,
+        "mentions": 222
+      },
+      "size": {
+        "positive": 84,
+        "negative": 24,
+        "mentions": 108
+      },
+      "weight": {
+        "positive": 96,
+        "negative": 6,
+        "mentions": 102
+      },
+      "price": {
+        "positive": 114,
+        "negative": 24,
+        "mentions": 144
+      },
+      "zipper": {
+        "positive": 72,
+        "negative": 24,
+        "mentions": 96
+      },
+      "handle": {
+        "positive": 54,
+        "negative": 12,
+        "mentions": 66
+      },
+      "customer_service": {
+        "positive": 24,
+        "negative": 18,
+        "mentions": 42
+      },
+      "delivery": {
+        "positive": 12,
+        "negative": 6,
+        "mentions": 18
+      }
+    },
+    "top_complaints": [
+      [
+        "material",
+        48
+      ],
+      [
+        "zipper",
+        24
+      ],
+      [
+        "size",
+        24
+      ],
+      [
+        "price",
+        24
+      ],
+      [
+        "customer_service",
+        18
+      ]
+    ],
+    "top_praises": [
+      [
+        "material",
+        174
+      ],
+      [
+        "price",
+        114
+      ],
+      [
+        "weight",
+        96
+      ],
+      [
+        "wheels",
+        84
+      ],
+      [
+        "size",
+        84
+      ]
+    ]
+  }
+}

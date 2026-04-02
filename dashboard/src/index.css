@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@400;500;600;700&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg-base:      #080a0f;
+  --bg-surface:   #0d1117;
+  --bg-card:      #111827;
+  --bg-hover:     #161e2e;
+  --border:       rgba(255,255,255,0.07);
+  --border-hi:    rgba(255,255,255,0.14);
+
+  --accent-blue:  #7c8ff5;
+  --accent-teal:  #5ec4a0;
+  --accent-amber: #e8a84c;
+  --accent-red:   #e05c5c;
+  --accent-purple:#a78bfa;
+
+  --text-primary:   #e8eaf0;
+  --text-secondary: #8b95a8;
+  --text-muted:     #4b5568;
+
+  --font-display: 'Syne', sans-serif;
+  --font-mono:    'DM Mono', monospace;
+}
+
+html, body, #root {
+  height: 100%;
+  background: var(--bg-base);
+  color: var(--text-primary);
+  font-family: var(--font-display);
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border-hi); border-radius: 2px; }
+
+/* Utility */
+.mono { font-family: var(--font-mono); }
+.text-muted { color: var(--text-secondary); }
+
+/* Card */
+.card {
+  background: var(--bg-card);
+  border: 0.5px solid var(--border);
+  border-radius: 10px;
+  padding: 16px;
+  transition: border-color 0.2s;
+}
+.card:hover { border-color: var(--border-hi); }
+
+/* Stat chip */
+.stat-chip {
+  background: var(--bg-surface);
+  border: 0.5px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 16px;
+}
+
+/* Bar fill animation */
+@keyframes barGrow {
+  from { width: 0; }
+}
+.bar-fill { animation: barGrow 0.6s cubic-bezier(0.16,1,0.3,1) both; }
+
+/* Fade in */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-up { animation: fadeUp 0.4s ease both; }
+
+/* Pulse dot */
+@keyframes pulse {
+  0%,100% { opacity: 1; }
+  50%      { opacity: 0.3; }
+}
+.pulse { animation: pulse 2s ease infinite; }
+
+/* Tag */
+.tag {
+  font-size: 10px;
+  font-family: var(--font-mono);
+  letter-spacing: 0.06em;
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-weight: 500;
+  display: inline-block;
+}
+.tag-blue   { background: rgba(124,143,245,0.15); color: var(--accent-blue); }
+.tag-teal   { background: rgba(94,196,160,0.15);  color: var(--accent-teal); }
+.tag-amber  { background: rgba(232,168,76,0.15);  color: var(--accent-amber); }
+.tag-red    { background: rgba(224,92,92,0.15);   color: var(--accent-red); }
+.tag-purple { background: rgba(167,139,250,0.15); color: var(--accent-purple); }
+
+/* Scrollable table */
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 12px; }
+thead th {
+  text-align: left;
+  padding: 8px 12px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  border-bottom: 0.5px solid var(--border);
+  white-space: nowrap;
+}
+tbody td {
+  padding: 10px 12px;
+  border-bottom: 0.5px solid var(--border);
+  color: var(--text-primary);
+  white-space: nowrap;
+}
+tbody tr:hover { background: var(--bg-hover); }
+tbody tr:last-child td { border-bottom: none; }
+
+/* Nav */
+.nav-btn {
+  background: none;
+  border: 0.5px solid transparent;
+  border-radius: 6px;
+  padding: 6px 14px;
+  color: var(--text-secondary);
+  font-family: var(--font-display);
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.nav-btn:hover { border-color: var(--border-hi); color: var(--text-primary); }
+.nav-btn.active {
+  background: var(--bg-card);
+  border-color: var(--border-hi);
+  color: var(--text-primary);
+}
+
+/* Filter select */
+select {
+  background: var(--bg-card);
+  border: 0.5px solid var(--border);
+  border-radius: 6px;
+  color: var(--text-secondary);
+  font-family: var(--font-display);
+  font-size: 12px;
+  padding: 6px 10px;
+  cursor: pointer;
+  outline: none;
+}
+select:hover { border-color: var(--border-hi); }
