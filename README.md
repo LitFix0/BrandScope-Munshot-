@@ -1,4 +1,6 @@
-# Luggage Intel — Competitive Intelligence Dashboard
+# BrandScope-Munshot-
+
+
 ### Amazon India · Luggage Market Analysis
 
 > Scrape → Analyse → Compare → Present
