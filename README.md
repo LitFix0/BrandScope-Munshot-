@@ -209,7 +209,7 @@ Set `ANTHROPIC_API_KEY` and run `python sentiment.py` (without `--no-llm`) to ge
 | Data processing | Python, Pandas (optional), JSON/CSV |
 | Sentiment | NLTK VADER, keyword aspect matching |
 | Dashboard | React 18, Recharts, CSS variables |
-| Optional LLM | Anthropic Claude (claude-sonnet-4-20250514) |
+
 
 ---
 
